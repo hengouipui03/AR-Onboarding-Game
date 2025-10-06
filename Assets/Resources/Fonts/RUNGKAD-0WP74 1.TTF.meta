@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e6352769438dcb24b936e7fec196aebf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - RUNGKAD
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cc31da389c4ca8c49b13460e0f1e806a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

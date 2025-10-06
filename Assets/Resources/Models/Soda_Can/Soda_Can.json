@@ -1,0 +1,144 @@
+{
+  "project": {
+    "id": "e16fc3821b1c4f58993677f3282133c0",
+    "name": "Soda_Can",
+    "source": {
+      "file": "C:/Users/lytro/Downloads/Soda Can.obj",
+      "date": "1673319332966"
+    },
+    "converted": {
+      "file": ".converted/Soda Can.pvz",
+      "date": "1673319771485"
+    },
+    "shadow": {
+      "file": ".shadow/Soda Can.glb",
+      "date": "1673319773005"
+    },
+    "bubbleGummed": {
+      "file": "",
+      "date": ""
+    },
+    "simplified": {
+      "file": "",
+      "date": ""
+    },
+    "assemblyId": "2f57a5c9c0e44379871e9495806a18d1",
+    "numDraws": 1,
+    "numPolygons": 306250,
+    "bubbleGummingSkipped": false,
+    "isBubbleGummed": false,
+    "originalNumMaterials": 1,
+    "originalNumTextures": 0,
+    "originalNumDraws": 1,
+    "originalNumPolygons": 306250,
+    "realisticTextureDetection": false
+  },
+  "progress": {
+    "skipGuideViewWizard": false,
+    "upVector": 2,
+    "units": 2,
+    "coloring": 2,
+    "simplification": 2,
+    "optimizeTrackingFor": 2
+  },
+  "camera": {
+    "rotation": [
+      -0.40642441207046476,
+      0.34366562840376247,
+      0.168346503559098,
+      0.8296822210138354
+    ],
+    "translation": [
+      2.6705129154879046,
+      4.8684739932963526,
+      2.6704660662371094
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "target": [
+      0,
+      0,
+      0
+    ]
+  },
+  "views": [
+    {
+      "name": "GuideView_0000",
+      "type": 1,
+      "rating": 5,
+      "guideViewPosition": {
+        "rotation": [
+          -0.40642441207046476,
+          0.34366562840376247,
+          0.168346503559098,
+          0.8296822210138354
+        ],
+        "translation": [
+          2.6705129154879046,
+          4.8684739932963526,
+          2.6704660662371094
+        ],
+        "up": [
+          0,
+          1,
+          0
+        ],
+        "target": [
+          -0.00013850884840560518,
+          0,
+          -0.0001853580991990622
+        ]
+      },
+      "targetExtent": null,
+      "recognitionRanges": null,
+      "userVolume": null,
+      "images": [
+        {
+          "type": "edge",
+          "file": "GuideView_0000_2.png"
+        },
+        {
+          "type": "shaded",
+          "file": "GuideView_0000_1.png"
+        }
+      ],
+      "device": 1,
+      "targetExtentPreset": null,
+      "recognitionRangesPreset": null
+    }
+  ],
+  "orbitcontrols": {
+    "target": [
+      -0.00013850884840560518,
+      0,
+      -0.0001853580991990622
+    ],
+    "worldUpVector": [
+      0,
+      1,
+      0
+    ]
+  },
+  "orbitdetection": {
+    "target": [
+      -0.00013850884840560518,
+      0,
+      -0.0001853580991990622
+    ],
+    "worldUpVector": [
+      0,
+      1,
+      0
+    ]
+  },
+  "simplification": {
+    "progress": "0%"
+  },
+  "uniformScale": 1,
+  "optimizeTrackingFor": "default",
+  "realisticAppearance": "false",
+  "version": 7
+}

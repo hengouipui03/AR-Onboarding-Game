@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Applewatch" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="Applewatchs_assembly" assemblyId="49397cc6b5b34fc19b9f7073476a5eb8">
+<Part name="Applewatch" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.00229254 -0.0222819 0.367955" rotation="AD: 0.999993 0.0146673 -0.259103 186.273" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

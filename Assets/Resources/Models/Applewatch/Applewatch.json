@@ -1,0 +1,144 @@
+{
+  "project": {
+    "id": "7566b8d1062848bab33e5d268592e782",
+    "name": "Applewatch",
+    "source": {
+      "file": "C:/Users/lytro/Downloads/apple-watch-13.snapshot.2/Apple watch.IGS",
+      "date": "1673317506470"
+    },
+    "converted": {
+      "file": ".converted/Apple watch.pvz",
+      "date": "1673317548340"
+    },
+    "shadow": {
+      "file": ".shadow/Apple watch.glb",
+      "date": "1673317548829"
+    },
+    "bubbleGummed": {
+      "file": "",
+      "date": ""
+    },
+    "simplified": {
+      "file": "",
+      "date": ""
+    },
+    "assemblyId": "49397cc6b5b34fc19b9f7073476a5eb8",
+    "numDraws": 10,
+    "numPolygons": 16562,
+    "bubbleGummingSkipped": false,
+    "isBubbleGummed": false,
+    "originalNumMaterials": 10,
+    "originalNumTextures": 0,
+    "originalNumDraws": 10,
+    "originalNumPolygons": 16562,
+    "realisticTextureDetection": false
+  },
+  "progress": {
+    "skipGuideViewWizard": false,
+    "upVector": 2,
+    "units": 2,
+    "coloring": 2,
+    "simplification": 2,
+    "optimizeTrackingFor": 2
+  },
+  "camera": {
+    "rotation": [
+      0,
+      -0.0030800772654509573,
+      0,
+      0.9999952565507693
+    ],
+    "translation": [
+      -0.0012099672268083062,
+      -0.022699996829032912,
+      0.3277512815671518
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "target": [
+      0,
+      0,
+      0
+    ]
+  },
+  "views": [
+    {
+      "name": "GuideView_0000",
+      "type": 1,
+      "rating": 5,
+      "guideViewPosition": {
+        "rotation": [
+          -0.054710797502152624,
+          0.2504212642599488,
+          0.014175837744624619,
+          0.9664858843601208
+        ],
+        "translation": [
+          0.1807658984978622,
+          0.01938580658305198,
+          0.3206879615548272
+        ],
+        "up": [
+          0,
+          1,
+          0
+        ],
+        "target": [
+          0.0008289496572237813,
+          -0.022699996829032926,
+          -0.003228705909155931
+        ]
+      },
+      "targetExtent": null,
+      "recognitionRanges": null,
+      "userVolume": null,
+      "images": [
+        {
+          "type": "edge",
+          "file": "GuideView_0000_2.png"
+        },
+        {
+          "type": "shaded",
+          "file": "GuideView_0000_1.png"
+        }
+      ],
+      "device": 1,
+      "targetExtentPreset": null,
+      "recognitionRangesPreset": null
+    }
+  ],
+  "orbitcontrols": {
+    "target": [
+      0.0008289496572237813,
+      -0.022699996829032912,
+      -0.003228705909155931
+    ],
+    "worldUpVector": [
+      0,
+      1,
+      0
+    ]
+  },
+  "orbitdetection": {
+    "target": [
+      0.0008289496572237813,
+      -0.022699996829032912,
+      -0.003228705909155931
+    ],
+    "worldUpVector": [
+      0,
+      1,
+      0
+    ]
+  },
+  "simplification": {
+    "progress": "0%"
+  },
+  "uniformScale": 1,
+  "optimizeTrackingFor": "default",
+  "realisticAppearance": "true",
+  "version": 7
+}

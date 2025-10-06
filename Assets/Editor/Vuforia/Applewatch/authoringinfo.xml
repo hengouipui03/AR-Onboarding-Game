@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.12.3">
+<ModelTarget name="Applewatch" targetId="7566b8d1062848bab33e5d268592e782" version="14.0" toolVersion="10.12.3" bbox="-0.020012 -0.160134 -0.011814 0.018354 0.114734 0.005357" previewImage="7566b8d1062848bab33e5d268592e782_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Applewatchs_assembly" assemblyId="49397cc6b5b34fc19b9f7073476a5eb8">
+<Part name="Applewatch" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.00229254 -0.0222819 0.367955" rotation="AD: 0.999993 0.0146673 -0.259103 186.273" image="Applewatch_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
