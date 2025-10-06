@@ -11,3 +11,11 @@ Here I can use everyday objects found in the office to interact with the game!
 ![Image](https://github.com/user-attachments/assets/e809ea91-486e-41f1-b119-e89af8e16bb9)
 
 I created a mini tossing game that uses real world surroundings
+
+HOW TO SET UP THE GAME!
+------------------------
+1) Install Unity Hub
+2) Install Unity Editor v2021.3.5f1
+3) Do download the QR codes onto an external device like your phone as it is required to progress through the game!
+they can be found \AR-Onboarding-Game\Assets\Resources\Images
+4) Now just build and run your game!
